@@ -12,7 +12,7 @@ header {
     color: rgb(131, 17, 17);
 }
 
-section {
+.chamada{
     background: rgba(78, 2, 2, 0.568);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -34,3 +34,4 @@ p{
 img{
     height: 200px;
 }
+
