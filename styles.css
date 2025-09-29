@@ -3,6 +3,7 @@ body {
     background: rgb(0, 0, 0);
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
 }
 
 header {
@@ -31,10 +32,6 @@ font-size: 40px;
 p{
     font-size: 20px;
 }
-img{
-    height: 200px;
-
-}
 
 categorias-videos{
     display: flex;
@@ -56,3 +53,6 @@ height: 200px;
     opacity: 1.0;
     border: 5px solid red;
 }
+
+
+
